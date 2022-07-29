@@ -1,7 +1,7 @@
 ---
 proofed_date: null
 approved_by: null
-comments: This template assists you to provide developer support for non-plug and play integrations. Use the components that support your task and replace ***. When ready for review, switch wip to "n".
+comments: This template assists you to provide developer support for non-plug and play integrations. Customize this page by using components that support your task and replacing ***. When ready for review, switch wip to "n".
 wip: y
 ---
 
